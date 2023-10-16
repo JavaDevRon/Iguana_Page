@@ -6,13 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5bb476ef-9941-4d3f-8443-681cc69f8703" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/navbar/navbar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/navbar/navbar__link.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/navbar/navbar__list.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/navbar/navbar__logo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/navbar/navbar__title.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/menu/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/menu/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/menu/menu__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/menu/menu__title.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +78,7 @@
       <updated>1697256894225</updated>
       <workItem from="1697256895184" duration="716000" />
       <workItem from="1697257640161" duration="3633000" />
-      <workItem from="1697485234077" duration="7305000" />
+      <workItem from="1697485234077" duration="8001000" />
     </task>
     <servers />
   </component>
